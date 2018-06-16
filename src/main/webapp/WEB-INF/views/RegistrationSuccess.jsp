@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Registration Success</title>
+<title>Registration Successes</title>
 </head>
 <body>
 	<div align="center">
