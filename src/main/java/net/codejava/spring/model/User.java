@@ -8,6 +8,7 @@ public class User {
 	private String email;
 	private Date birthDate;
 	private String profession;
+	private String profession;
 
 	public String getUsername() {
 		return username;
