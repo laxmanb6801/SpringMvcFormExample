@@ -10,10 +10,7 @@ public class User {
 	private String profession;
 	private String profession;
 
-	public String getUsername() {
-		return username;
-	}
-
+	
 	public void setUsername(String username) {
 		this.username = username;
 	}
